@@ -1,11 +1,11 @@
 {
-    "name": "senior_parking_spot",
-    "short_name": "senior_parking_spot",
+    "name": "The Site for Swag",
+    "short_name": "The Site for Swag",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "The site with all swag content. News, pictures, links, and more!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
