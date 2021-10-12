@@ -52727,10 +52727,10 @@ $1:function(a){return new X.o_(null)},
 $S:338}
 R.nZ.prototype={
 R:function(a,b){var s=null
-return M.a4P(E.a3s(C.eM,!0,L.o7("Swag Games",s)),T.pM(L.o7("hello world",s),s,s),s)}}
+return M.a4P(E.a3s(C.eM,!0,L.o7("Swag Games",s)),T.pM(L.o7("Swag Games soon",s),s,s),s)}}
 X.o_.prototype={
 R:function(a,b){var s=null
-return M.a4P(E.a3s(C.tB,!0,L.o7("Swag Pictures",s)),T.pM(L.o7("Hello Pictures",s),s,s),s)}}
+return M.a4P(E.a3s(C.tB,!0,L.o7("Swag Pictures",s)),T.pM(L.o7("Swag Pictures soon",s),s,s),s)}}
 E.ic.prototype={
 gl:function(a){return this.b},
 i:function(a,b){if(b>=this.b)throw H.b(P.bk(b,this,null,null,null))
